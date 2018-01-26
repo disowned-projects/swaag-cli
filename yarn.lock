@@ -1655,9 +1655,9 @@ supports-color@^4.0.0:
   dependencies:
     has-flag "^2.0.0"
 
-swaag@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/swaag/-/swaag-0.1.1.tgz#d5ef23fccfb14bb206d344f17d79fef7cff1a2d1"
+swaag@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/swaag/-/swaag-0.1.2.tgz#f54307e86f18bf5c83fcd56e073604d86cad9a47"
   dependencies:
     chalk "^2.3.0"
     chokidar "^2.0.0"
