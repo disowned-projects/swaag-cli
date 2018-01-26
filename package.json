@@ -1,0 +1,16 @@
+{
+  "name": "swaag-cli",
+  "version": "0.1.0",
+  "description": "CLI for swaag API",
+  "main": "index.js",
+  "repository": "https://github.com/doshisid/swaag-cli",
+  "author": "Siddharth Doshi <sidoshi510@gmail.com> (https://sid.sh/)",
+  "license": "MIT",
+  "bin": {
+    "swaag": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.13.0",
+    "swaag": "^0.1.0"
+  }
+}
