@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "commander": "^2.13.0",
-    "swaag": "^0.1.0"
+    "swaag": "^0.1.1"
   }
 }
